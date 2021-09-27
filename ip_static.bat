@@ -1,0 +1,1 @@
+netsh interface ipv4 set address name="Ethernet" static 169.254.236.95 255.255.0.0
